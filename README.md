@@ -14,6 +14,8 @@
 
 Projeto com o objetivo de gerar um ebook digital casando os conhecimentos na área de qualidade com as ferramentas de IA e seus prompts.
 
+<a href="https://github.com/Mariengca27/ebook_qualidade/blob/main/output/ebookQaMari.pdf" title="Veja o PDF"> 📕Clique aqui para ler</a>
+
 ## Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
@@ -55,8 +57,8 @@ Você pode copiar o arquivo PDF para o local desejado de sua preferência.
 <p>
     <img
       align=left
-      margin=10
-      width=80
+      margin=20
+      width=90
       src="
       https://avatars.githubusercontent.com/u/53942555?v=4"
     />
